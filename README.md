@@ -4,7 +4,7 @@
 
 </h1>
 <b><h3 align="center">Devs-map</h3></b>
-Aplicação que mapeia desenvolvedores em um determinado raio perto do usário que ultilizam determinada tecnologia. 
+Aplicação JavaScript que mapeia desenvolvedores em um raio perto do usuário que trabalham com determinada tecnologia. 
 
 ## Web
 <h1 align="center">
