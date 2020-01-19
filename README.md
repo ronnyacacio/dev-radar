@@ -3,8 +3,8 @@
 ![](.github/map.ico)
 
 </h1>
-<b><h3 align="center">Devs-map</h3></b>
-<h5 align="center">Aplicação JavaScript que mapeia desenvolvedores que trabalham com determinadas tecnologias!<h5>
+<h3 align="center">Devs-map</h3>
+<p align="center">Aplicação JavaScript que mapeia desenvolvedores que trabalham com determinadas tecnologias!<p>
 
 ## Web
 <h1 align="center">
