@@ -3,8 +3,8 @@
 ![](.github/map.ico)
 
 </h1>
-<b><h3 align="center">Devs-map</h3></b>
-Aplicação que mapeia desenvolvedores em um determinado raio perto do usário que ultilizam determinada tecnologia. 
+<h3 align="center">Devs-map</h3>
+<p align="center">Aplicação JavaScript que mapeia desenvolvedores que trabalham com determinadas tecnologias!<p>
 
 ## Web
 <h1 align="center">
