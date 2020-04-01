@@ -1,19 +1,26 @@
 <h1 align="center">
-
-![](.github/map.ico)
-
-</h1>
-<h3 align="center">Devs-map</h3>
-<p align="center">Aplicação JavaScript que mapeia desenvolvedores que trabalham com determinadas tecnologias!<p>
-
-## Web
-<h1 align="center">
-
-![](.github/web.png)
-
+    <img alt="DevRadar" title="#devradar" src=".github/devradar.svg" width="200px" />
 </h1>
 
-## Mobile
-| Mapa de devs | Descrições | Profile 
-|---|---|---|
-|![](.github/main.jpeg)|![](.github/main-callout.jpeg)|![](.github/profile.jpeg)|
+<h4 align="center">
+  🚀 Semana OmniStack 10.0
+</h4>
+
+<br>
+
+<p align="center">
+  <img alt="DevRadar" src=".github/devradar.png" width="100%">
+</p>
+
+## Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
+## 💻 Projeto
+
+O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias. Além disso visa aumentar as minhas habilidades como programador web.
