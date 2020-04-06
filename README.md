@@ -24,3 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias. Além disso visa aumentar as minhas habilidades como programador web.
+
+## Importe o ambiente de testes
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Dev%20Radar&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fronnyacacio%2Fdevs-map%2Fmaster%2Finsomnia.json)
